@@ -32,9 +32,8 @@ const {
     useSortBy,
     usePagination
   )
-
-  // Render Data Table UI
-  return (
+// Render Data Table UI
+return (
     <>
       <table {...getTableProps()}>
         <thead>
