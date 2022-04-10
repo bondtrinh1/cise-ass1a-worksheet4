@@ -17,4 +17,4 @@ const SEPractice = () => {
     );
 }
  
-export default SEPractice;  
+export default SEPractice;
